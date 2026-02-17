@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-**Data Analytics | Full Stack Developer**
+**Analista de Ciberseguridad de Google | Data Analytics | Full Stack Developer**
 
-📍 Zárate, Provincia de Buenos Aires, Argentina  
+📍 Provincia de Buenos Aires, Argentina  
 📧 magaliacosta.r@gmail.com  
 🔗 LinkedIn
 
@@ -17,6 +17,9 @@
 
 ## 🛠️ Habilidades Principales
 
+- **Gestión de amenazas**
+- **Detección y prevención de intrusiones**
+- **Gestión de riesgos**
 - **Análisis de Datos**
 - **Recopilación de Información**
 - **Diseño de Dashboards**
@@ -25,6 +28,8 @@
 
 - **Ingeniería en Sistemas de Información**  
   UTN Facultad Regional Delta (2022 - 2028)
+- **Analista de Ciberseguridad**  
+  Google (Septiembre 2025 - Abril 2026)
 - **Data Analytics**  
   Henry (diciembre de 2024 - mayo de 2025)
 - **Full Stack Developer**  
@@ -32,13 +37,15 @@
 
 ## 📝 Extracto
 
-Estudio Ingeniería en Sistemas de Información en la UTN Facultad Regional Delta, donde también soy ayudante de cátedra en la asignatura Sistemas y Procesos de Negocios. Mi enfoque académico y profesional combina conocimientos de sistemas de negocio con habilidades técnicas como Python, SQL, Machine Learning, Scrum, HTML, CSS, JavaScript, y Vue.js, desarrolladas tanto en el aula como en capacitaciones que he realizado.
+Estudiante avanzada de Ingeniería en Sistemas (UTN) enfocada en aplicar Ciencia de Datos a la Ciberseguridad. Como ayudante de cátedra en Sistemas de Negocio, entiendo la importancia de la eficiencia operativa. 
+Mi objetivo es transformar logs y métricas complejas en decisiones estratégicas de seguridad. He liderado proyectos de sostenibilidad y optimización de inventarios (Viticole), y hoy busco aplicar ese enfoque analítico en entornos de ciberseguridad que requieran mentalidad técnica y compromiso académico.
+
 
 ## 💼 Experiencia
 
 - **UTN Facultad Regional Delta**  
   *Ayudante de cátedra*  
-  marzo de 2023 - Presente (2 años 3 meses)  
+  marzo de 2023 - Presente (3 años)  
   Ayudante de cátedra en la asignatura Sistemas y Procesos de Negocios de la carrera de Ingeniería en Sistemas de Información.
 
 - **Circular Influence**  
@@ -68,8 +75,6 @@ Estudio Ingeniería en Sistemas de Información en la UTN Facultad Regional Delt
 ### Herramientas de Desarrollo 💻
 #### - Visual Studio Code (VS Code)
 #### - GitHub
-
-
 
 ### Sistemas de Gestión de Contenidos 📋
 #### - WordPress
